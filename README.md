@@ -4,7 +4,7 @@
 ### Improve the normal HTML style. 
 * Tags can be styled. Example:
 
-```javascript
+```
 <style>
 h1 { color:red }  
 </style>  
