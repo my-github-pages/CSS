@@ -6,7 +6,7 @@
 ```javascript
 <style>
 h1 { color:red }  
-<style>  
+</style>  
 ````
 
 ### Have a look at:
