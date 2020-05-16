@@ -12,3 +12,5 @@ h1 { color:red }
 
 ### Have a look at:
 [https://www.w3schools.com/html/html_css.asp](https://www.w3schools.com/html/html_css.asp)
+
+But a style creates good and consistent looking page and complete sites. This is not easy for a programmer. :-) 
